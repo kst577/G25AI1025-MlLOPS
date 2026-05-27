@@ -1,0 +1,4 @@
+# ML Ops Assignment 1 — g25ai1025 (pinned for reproducibility)
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
